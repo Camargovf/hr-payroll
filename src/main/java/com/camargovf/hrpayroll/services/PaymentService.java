@@ -17,5 +17,6 @@ public class PaymentService {
 
        Worker worker = workerFeignClient.findById(workerId).getBody(); //ResponseEntity getBody
         return new Payment(worker.getName(), worker.getDailyIncome(), days);
+
     }
 }

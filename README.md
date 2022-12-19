@@ -4,6 +4,6 @@
 
 
 <h1 align="center"> Projeto microservice folha de pagamento pay-roll API (CONSTRUÇAO) </h1>
-
-<h3 align="center"> Microserviço para ser consumido por Eureka, Hystrix, Zuul.. </h3>
+        Projeto em andamento ms.
+<h3 align="center"> Microserviço para ser consumido por Eureka, Hystrix, Zuul! </h3>
 <br>
